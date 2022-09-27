@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664203754 source:c:\users\user\desktop\pertemuan 7\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
